@@ -1,6 +1,6 @@
 <template>
   <div class="grid h-screen place-items-center bg-gray-900">
-    <h1 class="text-5xl font-mono font-bold">
+    <h1 class="md:text-5xl text-3xl font-mono font-bold">
       <span class="text-violet-400">var</span>
       <span
         class="bg-clip-text Pastel bg-gradient-to-r from-green-200 via-green-300 to-blue-500 background-animate text-transparent"
