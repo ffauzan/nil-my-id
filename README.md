@@ -1,5 +1,7 @@
 # nil-my-id
 
+[nil.my.id](https://nil.my.id) is and empty site ☠.
+
 ## Build Setup
 
 ```bash
