@@ -1,6 +1,6 @@
 # nil-my-id
 
-[nil.my.id](https://nil.my.id) is and empty site ☠.
+[nil.my.id](https://nil.my.id) is an empty site ☠.
 
 ## Build Setup
 
